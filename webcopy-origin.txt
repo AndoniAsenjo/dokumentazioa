@@ -1,0 +1,80 @@
+Uri: https://ssl.gstatic.com/gb/images/bar/al-icon.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\gb\images\bar\al-icon.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/colorpicker/checkmark.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\ui\v1\colorpicker\checkmark.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/menu/checkmark.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\ui\v1\menu\checkmark.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/checked-disabled.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\ui\v1\radiobutton\checked-disabled.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/checked.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\ui\v1\radiobutton\checked.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/checked_focused.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\ui\v1\radiobutton\checked_focused.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/unchecked-disabled.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\ui\v1\radiobutton\unchecked-disabled.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/unchecked.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\ui\v1\radiobutton\unchecked.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/unchecked_focused.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\ui\v1\radiobutton\unchecked_focused.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/zippy/arrow_down.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\ui\v1\zippy\arrow_down.png
+Content Type: image/png
+
+Uri: https://www.google.com/?hl=es
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/advanced_search?hl=es&authuser=0
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\advanced_search.html
+Content Type: text/html
+
+Uri: https://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\images\branding\googlelogo\1x\googlelogo_white_background_color_272x92dp.png
+Content Type: image/png
+
+Uri: https://www.google.com/images/nav_logo229.png
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\images\nav_logo229.png
+Content Type: image/png
+
+Uri: https://www.google.com/intl/es/policies/privacy/
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\intl\es\policies\privacy\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/intl/es/policies/terms/
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\intl\es\policies\terms\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/preferences?hl=es
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\preferences
+Content Type: application/xhtml+xml
+
+Uri: https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\images\branding\googlelogo\svg\googlelogo_clr_74x24px.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_dark_clr_74x24px.svg
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\images\branding\googlelogo\svg\googlelogo_dark_clr_74x24px.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_light_clr_74x24px.svg
+File Name: C:\Users\Maite\Desktop\webgunea klonaz\www.google.com\images\branding\googlelogo\svg\googlelogo_light_clr_74x24px.svg
+Content Type: image/svg+xml
+
